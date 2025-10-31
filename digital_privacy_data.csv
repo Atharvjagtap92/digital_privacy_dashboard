@@ -1,0 +1,11 @@
+User_ID,Platform,Time_Spent (hrs/day),Data_Shared (%),Awareness_Level,Privacy_Tools_Used,Age_Group
+1,Instagram,3.5,80,2,VPN,18-25
+2,Facebook,2.0,60,3,Password Manager,26-35
+3,YouTube,4.0,50,4,None,18-25
+4,Twitter,1.5,40,5,2FA,26-35
+5,Snapchat,3.0,70,2,None,18-25
+6,LinkedIn,1.0,30,5,VPN,36-45
+7,Telegram,2.5,55,3,VPN,18-25
+8,Reddit,3.8,65,4,Password Manager,26-35
+9,WhatsApp,2.2,45,5,2FA,36-45
+10,Pinterest,1.8,50,4,None,18-25
