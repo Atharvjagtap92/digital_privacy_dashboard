@@ -44,8 +44,12 @@ User → GitHub Repo → Jenkins Pipeline → Docker Build → Container Deploym
 
 Atharv Jagtap
 🎓 Cloud Technology & Information Security Student
+
 🔗 LinkedIn
+
 http://linkedin.com/in/atharv-jagtap-43218031b
+
 💻 GitHub
+
 https://github.com/Atharvjagtap92
 
